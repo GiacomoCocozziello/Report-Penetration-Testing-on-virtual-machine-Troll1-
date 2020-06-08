@@ -1,0 +1,2 @@
+# Report-Penetration-Testing-on-virtual-machine-Troll1-
+The project activity contains two documents: the first one presents all the phases of the penetration test process (Target Scoping, Information Gathering, Target Discovery, Vulnerability Mapping, Target Exploitation, Post Exploitation) and the second one presents the phases of the penetration testing report (Executive Summary, Engagement Highlights, Vulnerability Report, Remediation Report, Findings Summary, Detailed Summary).
